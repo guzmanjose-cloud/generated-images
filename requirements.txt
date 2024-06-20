@@ -1,0 +1,3 @@
+diffusers
+torch>=1.6
+accelerate
