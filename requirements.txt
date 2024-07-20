@@ -1,3 +1,4 @@
 diffusers
 torch>=1.6
 accelerate
+pandas>=1.5.3
